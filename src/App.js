@@ -4,7 +4,7 @@ export default function App() {
  const details=[{title:"vicky" },
  {title:"vinoth" },
  {title:"vi" },
- {title:"pavi" },
+ {title:"pavitharan" },
  {title:"pav" },
  {title:"kavi" },]
    const [init,setinit]=useState('')
